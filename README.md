@@ -23,7 +23,7 @@ If you haven't already cloned the repository, do so using:
 
 ```bash
 git clone https://github.com/NestedHub/Backend.git
-cd fastapi-starter
+cd Backend
 ```
 
 ### Create a Virtual Environment
